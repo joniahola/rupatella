@@ -1,6 +1,6 @@
 # Rupatella
 
-Chat application to companies and small groups. High influence to slack and discord. This is learning project to learn Tauri, Rust and SvelteKit. 
+Chat application to companies and small groups. Lots of influences from slack and discord. This is learning project to learn Tauri, Rust and SvelteKit. 
 
 ## Developing
 
